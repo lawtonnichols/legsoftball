@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "trace_id": "9bfc73a9-bbe6-4b6e-962f-1a815912a8ef"
+  },
+  "result": [
+    {
+      "id": "65b04777e2056a00b7c022f2",
+      "name": "10U",
+      "short_name": "10U",
+      "abbrev": null,
+      "min_teams": null,
+      "max_teams": 0,
+      "num_teams": 7,
+      "min_dob": null,
+      "max_dob": null,
+      "cutoff_date": null,
+      "ages_supported": null,
+      "gender": [
+        "male",
+        "female",
+        "non-binary"
+      ],
+      "template": null,
+      "competitive": false,
+      "description": null,
+      "free_stage": null,
+      "schedule_locked": true,
+      "require_player_approval": null,
+      "require_staff_approval": null,
+      "max_roster_size": null,
+      "max_staff_roster_size": null,
+      "max_player_team_count": null,
+      "min_roster_size": null,
+      "min_staff_roster_size": null,
+      "require_head_coach": null,
+      "require_team_fee_paid": null,
+      "staff_eligibility_rule_set_ids": [],
+      "player_eligibility_rule_set_ids": [],
+      "warning_rule_definition_ids": [],
+      "violation_rule_definition_ids": [],
+      "standings_preferences": {
+        "id": 726093,
+        "customize_display_fields": true,
+        "display_fields": [
+          "st_pts",
+          "w",
+          "l",
+          "t",
+          "games",
+          "pct",
+          "pf",
+          "pa",
+          "pd"
+        ],
+        "order_by": [
+          "pct"
+        ],
+        "game_type": "reg",
+        "repeat": true,
+        "config_values": {
+          "pts_win": 3,
+          "pts_tie": 1,
+          "pd_max": 99
+        },
+        "secondary_criteria": [
+          {
+            "scope": "all",
+            "key": "pct",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "diff",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "pf",
+            "direction": "desc"
+          }
+        ],
+        "sport_id": 4,
+        "enabled": true,
+        "inherit": true
+      },
+      "microsite_settings": {
+        "standings": true,
+        "pool_standings": {
+          "by_pool": true,
+          "overall": true
+        },
+        "brackets": true,
+        "scores": true,
+        "seed_ranks": true
+      },
+      "extended_attributes": [],
+      "program_id": "65b04757cb3af8009678bc0d"
+    },
+    {
+      "id": "65b04777b78ef400968092bb",
+      "name": "13U",
+      "short_name": "13U",
+      "abbrev": null,
+      "min_teams": null,
+      "max_teams": 0,
+      "num_teams": 8,
+      "min_dob": null,
+      "max_dob": null,
+      "cutoff_date": null,
+      "ages_supported": null,
+      "gender": [
+        "male",
+        "female",
+        "non-binary"
+      ],
+      "template": null,
+      "competitive": false,
+      "description": null,
+      "free_stage": null,
+      "schedule_locked": true,
+      "require_player_approval": null,
+      "require_staff_approval": null,
+      "max_roster_size": null,
+      "max_staff_roster_size": null,
+      "max_player_team_count": null,
+      "min_roster_size": null,
+      "min_staff_roster_size": null,
+      "require_head_coach": null,
+      "require_team_fee_paid": null,
+      "staff_eligibility_rule_set_ids": [],
+      "player_eligibility_rule_set_ids": [],
+      "warning_rule_definition_ids": [],
+      "violation_rule_definition_ids": [],
+      "standings_preferences": {
+        "id": 726093,
+        "customize_display_fields": true,
+        "display_fields": [
+          "st_pts",
+          "w",
+          "l",
+          "t",
+          "games",
+          "pct",
+          "pf",
+          "pa",
+          "pd"
+        ],
+        "order_by": [
+          "pct"
+        ],
+        "game_type": "reg",
+        "repeat": true,
+        "config_values": {
+          "pts_win": 3,
+          "pts_tie": 1,
+          "pd_max": 99
+        },
+        "secondary_criteria": [
+          {
+            "scope": "all",
+            "key": "pct",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "diff",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "pf",
+            "direction": "desc"
+          }
+        ],
+        "sport_id": 4,
+        "enabled": true,
+        "inherit": true
+      },
+      "microsite_settings": {
+        "standings": true,
+        "pool_standings": {
+          "by_pool": true,
+          "overall": true
+        },
+        "brackets": true,
+        "scores": true,
+        "seed_ranks": true
+      },
+      "extended_attributes": [],
+      "program_id": "65b04757cb3af8009678bc0d"
+    },
+    {
+      "id": "65b04777e2056a0095c0546d",
+      "name": "6U",
+      "short_name": "6U",
+      "abbrev": null,
+      "min_teams": null,
+      "max_teams": 0,
+      "num_teams": 4,
+      "min_dob": null,
+      "max_dob": null,
+      "cutoff_date": null,
+      "ages_supported": null,
+      "gender": [
+        "male",
+        "female",
+        "non-binary"
+      ],
+      "template": null,
+      "competitive": false,
+      "description": null,
+      "free_stage": null,
+      "schedule_locked": true,
+      "require_player_approval": null,
+      "require_staff_approval": null,
+      "max_roster_size": null,
+      "max_staff_roster_size": null,
+      "max_player_team_count": null,
+      "min_roster_size": null,
+      "min_staff_roster_size": null,
+      "require_head_coach": null,
+      "require_team_fee_paid": null,
+      "staff_eligibility_rule_set_ids": [],
+      "player_eligibility_rule_set_ids": [],
+      "warning_rule_definition_ids": [],
+      "violation_rule_definition_ids": [],
+      "standings_preferences": {
+        "id": 726093,
+        "customize_display_fields": true,
+        "display_fields": [
+          "st_pts",
+          "w",
+          "l",
+          "t",
+          "games",
+          "pct",
+          "pf",
+          "pa",
+          "pd"
+        ],
+        "order_by": [
+          "pct"
+        ],
+        "game_type": "reg",
+        "repeat": true,
+        "config_values": {
+          "pts_win": 3,
+          "pts_tie": 1,
+          "pd_max": 99
+        },
+        "secondary_criteria": [
+          {
+            "scope": "all",
+            "key": "pct",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "diff",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "pf",
+            "direction": "desc"
+          }
+        ],
+        "sport_id": 4,
+        "enabled": true,
+        "inherit": true
+      },
+      "microsite_settings": {
+        "standings": true,
+        "pool_standings": {
+          "by_pool": true,
+          "overall": true
+        },
+        "brackets": true,
+        "scores": true,
+        "seed_ranks": true
+      },
+      "extended_attributes": [],
+      "program_id": "65b04757cb3af8009678bc0d"
+    },
+    {
+      "id": "65b04777ed0857009770e1ba",
+      "name": "8U",
+      "short_name": "8U",
+      "abbrev": null,
+      "min_teams": null,
+      "max_teams": 0,
+      "num_teams": 7,
+      "min_dob": null,
+      "max_dob": null,
+      "cutoff_date": null,
+      "ages_supported": null,
+      "gender": [
+        "male",
+        "female",
+        "non-binary"
+      ],
+      "template": null,
+      "competitive": false,
+      "description": null,
+      "free_stage": null,
+      "schedule_locked": true,
+      "require_player_approval": null,
+      "require_staff_approval": null,
+      "max_roster_size": null,
+      "max_staff_roster_size": null,
+      "max_player_team_count": null,
+      "min_roster_size": null,
+      "min_staff_roster_size": null,
+      "require_head_coach": null,
+      "require_team_fee_paid": null,
+      "staff_eligibility_rule_set_ids": [],
+      "player_eligibility_rule_set_ids": [],
+      "warning_rule_definition_ids": [],
+      "violation_rule_definition_ids": [],
+      "standings_preferences": {
+        "id": 726093,
+        "customize_display_fields": true,
+        "display_fields": [
+          "st_pts",
+          "w",
+          "l",
+          "t",
+          "games",
+          "pct",
+          "pf",
+          "pa",
+          "pd"
+        ],
+        "order_by": [
+          "pct"
+        ],
+        "game_type": "reg",
+        "repeat": true,
+        "config_values": {
+          "pts_win": 3,
+          "pts_tie": 1,
+          "pd_max": 99
+        },
+        "secondary_criteria": [
+          {
+            "scope": "all",
+            "key": "pct",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "diff",
+            "direction": "desc"
+          },
+          {
+            "scope": "all",
+            "key": "pf",
+            "direction": "desc"
+          }
+        ],
+        "sport_id": 4,
+        "enabled": true,
+        "inherit": true
+      },
+      "microsite_settings": {
+        "standings": true,
+        "pool_standings": {
+          "by_pool": true,
+          "overall": true
+        },
+        "brackets": true,
+        "scores": true,
+        "seed_ranks": true
+      },
+      "extended_attributes": [],
+      "program_id": "65b04757cb3af8009678bc0d"
+    }
+  ]
+}
